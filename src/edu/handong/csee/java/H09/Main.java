@@ -1,7 +1,7 @@
 package edu.handong.csee.java.H09;
 import java.util.Scanner;
 
-class Main {
+public class Main {
     public static void main(String[] args) {
         Main stepH = new Main();
         stepH.h09();
